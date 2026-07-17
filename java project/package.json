@@ -1,0 +1,10 @@
+{
+  "name": "customer-management-system",
+  "private": true,
+  "version": "1.0.0",
+  "description": "One-command launcher for the Customer Management System frontend and backend.",
+  "scripts": {
+    "dev": "node frontend/scripts/dev-fullstack.mjs",
+    "start": "node frontend/scripts/dev-fullstack.mjs"
+  }
+}
